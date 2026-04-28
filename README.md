@@ -2,6 +2,11 @@
 
 一个基于 SwiftUI 构建的 iOS 番茄工作法应用，帮助你更专注地完成每一天。
 
+![screencapture](./ui/screencapture-127-0-0-1-5500-index-html-2026-04-26-23_43_05.png)
+
+![screencapture](./ui/screencapture-127-0-0-1-5500-index-html-2026-04-28-20_38_55.png)
+
+
 ## 功能特性
 
 ### 番茄计时器
